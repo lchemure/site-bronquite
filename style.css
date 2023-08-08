@@ -12,14 +12,79 @@
     justify-content: space-around;
     align-items: center;
     padding: 20px 0px;
+    font-size: 30px;
 
 }
 
 .cabecalho-texto{
-    font-size: 60px;
+    font-size: 90px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .cabecalho-lista-item{
     display: inline-block;
-    margin: 0px 400px;
+    margin: 0px 50px;
+}
+
+.bronquite-imagem{
+    width: 40%;
+    padding: 40px;
+}
+
+.bronquite{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bronquite-div-conteudo{
+    width: 60%;
+    padding: 20px 85px;
+}
+
+.bronquite-significado{
+    padding: 0px 0px 20px;
+}
+
+.bronquite-significado1{
+    padding: 0px 0px 25px;
+}
+
+.sintomas{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px 85px;
+    display: flex;
+}
+
+.sintomas-titulo{
+    padding: 0px 0px 20px;
+}
+
+.tipos-div-conteudo{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px 80px 0px;
+
+}
+
+.tipos-titulo{
+    padding: 0px 0px 20px;
+}
+
+.tipo1{
+    padding: 0px 0px 25px;
+}
+
+.tipo2{
+    padding: 0px 0px 25px;
+}
+
+.tipo3{
+    padding: 0px 0px 25px;
 }
