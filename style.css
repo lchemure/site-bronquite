@@ -12,12 +12,12 @@
     justify-content: space-around;
     align-items: center;
     padding: 20px 0px;
-    font-size: 30px;
+    font-size: 20px;
 
 }
 
 .cabecalho-texto{
-    font-size: 90px;
+    font-size: 40px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -27,12 +27,12 @@
 }
 
 .bronquite-imagem{
-    width: 35%;
+    width: 30%;
     padding: 40px;
 }
 
 .bronquite{
-    font-size: 30px;
+    font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     justify-content: center;
@@ -53,7 +53,7 @@
 }
 
 .sintomas{
-    font-size: 30px;
+    font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
     padding: 0px 85px;
     display: flex;
@@ -72,7 +72,7 @@
     display: inline-block;
     justify-content: center;
     align-items: center;
-    font-size: 30px;
+    font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
     padding: 0px 200px 0px;
 
@@ -95,7 +95,7 @@
 }
 .tratamento-div{
     justify-content: right;
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .tratamento-titulo{
